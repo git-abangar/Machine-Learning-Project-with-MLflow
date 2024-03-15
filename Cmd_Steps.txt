@@ -1,0 +1,4 @@
+1.  git clone repo_url
+2.  python template.py : Creates Project Structure
+3.  pip install -r requirements.txt : install all the lib 
+4. 
